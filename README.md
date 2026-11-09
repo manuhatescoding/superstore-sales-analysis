@@ -72,23 +72,6 @@ Each row is one order line, with order, customer, location, product, and financi
 - Study what West does well and see if other regions can copy it.
 - Track states and customers with high sales but low or negative profit.
 
-## Repository Structure
-
-> Placeholder names. Rename these to match your actual files.
-
-```
-├── data/
-│   └── superstore_cleaned.csv
-├── excel/
-│   └── Superstore_Analysis.xlsx
-├── python/
-│   └── Superstore_Analysis.ipynb
-├── powerbi/
-│   └── Superstore_Dashboard.pbix
-├── report/
-│   └── Superstore_Sales_Analysis_Project_Report_Final.docx
-└── README.md
-```
 
 ## Limitations
 
